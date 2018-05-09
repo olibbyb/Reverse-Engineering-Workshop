@@ -1,0 +1,10 @@
+C:\Users\olibb\source\repos\Locker\Locker\bin\Debug\Locker.exe.config
+C:\Users\olibb\source\repos\Locker\Locker\bin\Debug\Locker.exe
+C:\Users\olibb\source\repos\Locker\Locker\bin\Debug\Locker.pdb
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.csprojResolveAssemblyReference.cache
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.Form1.resources
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.Properties.Resources.resources
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.cache
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.csproj.CoreCompileInputs.cache
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.exe
+C:\Users\olibb\source\repos\Locker\Locker\obj\Debug\Locker.pdb
